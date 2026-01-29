@@ -1,2 +1,3 @@
-"# Helmet_Theft" 
-"# Helmet_Theft" 
+An AI-Driven IoT Framework for Helmet Theft Prevention Using Sensor Fusion and Behavioral Anomaly Detection
+
+The proposed Smart Helmet Anti‑Theft System presents a well‑structured and feasible design that integrates IoT and embedded system concepts to address the problem of helmet theft. The system architecture clearly defines the interaction between sensors, the ESP32 controller, and the communication module to ensure reliable detection and alert generation. Emphasis has been placed on modular design, scalability, and cost‑effectiveness, allowing future enhancements such as GPS tracking and mobile application support. Overall, the design demonstrates a strong foundation for implementation and validates the technical viability of the proposed solution.
