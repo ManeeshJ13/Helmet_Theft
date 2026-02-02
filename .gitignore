@@ -31,3 +31,9 @@ android/app/release
 # === Misc ===
 *.class
 *.pyc
+
+# Disable unwanted Flutter platforms
+/linux/
+/macos/
+/windows/
+/web/
